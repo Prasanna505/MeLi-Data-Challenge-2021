@@ -1,6 +1,7 @@
-#The Challenge
+<b>The Challenge</b>
 
 Build a model to forecast item inventory days based on Mercado Libre historical data.<br>
+
 Every day, Mercadolibre's shipping unit (MercadoEnvíos) delivers thousands of products across Latin America.<br>
 
 In order to provide customers with the best experience throughout the shipping process, it is critical to have accurate sales forecasts.<br>
